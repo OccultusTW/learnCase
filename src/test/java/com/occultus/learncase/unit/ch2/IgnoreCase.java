@@ -2,7 +2,6 @@ package com.occultus.learncase.unit.ch2;
 
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
-import unit.ch2.LogAnalyzer;
 
 import static org.junit.jupiter.api.Assertions.assertThrows;
 

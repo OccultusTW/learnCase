@@ -3,8 +3,6 @@ package com.occultus.learncase.unit.ch7;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import unit.ch7.SystemTime;
-import unit.ch7.TimeLogger;
 
 import java.time.LocalDate;
 

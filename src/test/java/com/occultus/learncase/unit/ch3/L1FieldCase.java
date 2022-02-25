@@ -1,7 +1,6 @@
 package com.occultus.learncase.unit.ch3;
 
 import org.junit.jupiter.api.Test;
-import unit.ch3.FieldLogAnalyzer;
 
 import static org.junit.jupiter.api.Assertions.assertFalse;
 

@@ -1,8 +1,5 @@
 package com.occultus.learncase.unit.ch3;
 
-import unit.ch3.ExtensionManager;
-import unit.ch3.IExtensionManager;
-
 public class FakeExtensionManagerFactory {
     private static IExtensionManager manager;
 
