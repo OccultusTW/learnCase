@@ -1,8 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.occultus.learncase.unit.ch7.noDRYTests
--------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.001 s <<< FAILURE! - in com.occultus.learncase.unit.ch7.noDRYTests
-setting_config_throwsExceptions  Time elapsed: 0.001 s  <<< ERROR!
-java.lang.NullPointerException
-	at com.occultus.learncase.unit.ch7.noDRYTests.setting_config_throwsExceptions(noDRYTests.java:15)
-
